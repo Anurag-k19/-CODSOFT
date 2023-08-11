@@ -1,7 +1,1 @@
-This Project concludes:-
-
-1.To-do list
-
-2.Simple Calculator
-
-3.Random password generator
+This Project concludes To-do list, Simple Calculator, Random password generator using Python Programming Language
